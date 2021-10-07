@@ -1,0 +1,12 @@
+nats:
+  server: "nats://localhost:4222"
+
+mock:
+  grpc:
+    server: "http://localhost:28080"
+  http:
+    server: "http://localhost:8088"
+
+macing:
+  http:
+    server: "http://locahost:8080"
